@@ -7,4 +7,4 @@ Day | Hours Studying | Subject type | Link
 ------------ | ------------- | ------------- | -------------
 1 | 2.5 | Lecture | https://www.youtube.com/watch?v=ecIWPzGEbFc
 2 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf
-3 
+3 | 0.5 | Installation | https://192.168.5.5/
