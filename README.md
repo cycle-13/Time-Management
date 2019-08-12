@@ -10,5 +10,7 @@ Day | Hours Studying | Subject type | Link
 3 | 0.5 | Installation | https://192.168.5.5/
 3 | 1.0 | Lecture | https://www.youtube.com/watch?v=a-BOSpxYJ9M
 3 | 2.0 | Bandit | http://overthewire.org/wargames/
-4 |0.5  |   Quiz  | Essential Peripheral
-4 |0.15 |   Quiz  | Visible Computer
+4 | 0.5 |   Quiz  | Essential Peripheral
+4 | 0.15|   Quiz  | Visible Computer
+6 | 1.0 |   Quiz  | Hard Drive, Power Supply, Microprocessor
+6 | 2.0 | Labs    | Hardware Assembly
