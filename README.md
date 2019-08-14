@@ -14,3 +14,5 @@ Day | Hours Studying | Subject type | Link
 4 | 0.15|   Quiz  | Visible Computer
 6 | 1.0 |   Quiz  | Hard Drive, Power Supply, Microprocessor
 6 | 2.0 | Labs    | Hardware Assembly
+7 | 4.0 | Quiz    | Quiz overview and statistics
+8 | 1.5 | Study   | Server installation
