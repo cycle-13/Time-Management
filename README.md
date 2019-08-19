@@ -16,3 +16,4 @@ Day | Hours Studying | Subject type | Link
 6 | 2.0 | Labs    | Hardware Assembly
 7 | 4.0 | Quiz    | Quiz overview and statistics
 8 | 1.5 | Study   | Server installation
+18 10.0 | Study   | Cisco Modules (1-9)/Mid-term Exam
